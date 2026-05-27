@@ -15,3 +15,4 @@ El sitio muestra un sistema de stock para un comercio multirubro con productos, 
 
 - HTML
 - CSS
+<img width="389" height="559" alt="image" src="https://github.com/user-attachments/assets/ab514dcb-e032-46b4-a574-92de6c5835de" />
