@@ -1,0 +1,55 @@
+/* Fondo de la página */
+body{
+    background-color: lightgray;
+    font-family: Arial;
+}
+
+/* Títulos */
+h1{
+    color: blue;
+}
+
+/* Menú */
+nav{
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+/* Links */
+a{
+    color: white;
+    background-color: #000000;
+    padding: 5px;
+    text-decoration: none;
+}
+
+/* Hover */
+a:hover{
+    background-color: gray;
+}
+
+/* Tablas */
+table{
+    background-color: white;
+    border-collapse: collapse;
+}
+
+/* Bordes */
+table, th, td{
+    border: 1px solid black;
+}
+
+/* Espaciado */
+th, td{
+    padding: 10px;
+}
+
+/* Formulario */
+form{
+    background-color: white;
+    border: 1px solid black;
+    padding: 10px;
+    width: 250px;
+}
+
